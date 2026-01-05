@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Wedding Decoration",
+    "slug": "wedding-decoration",
+    "coverImage": "https://images.unsplash.com/photo-1519225448526-0a0295155809?q=80&w=800&auto=format&fit=crop",
+    "shortDescription": "Elegant and timeless wedding setups for your special day.",
+    "fullDescription": "Our wedding decoration service offers a comprehensive design and execution package. From entrance arches to the main stage, we use premium flowers, fabric drapes, and ambient lighting to create a magical atmosphere. We customize every detail to match your theme and color palette.",
+    "sampleImages": [
+      "https://images.unsplash.com/photo-1519225448526-0a0295155809?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=800&auto=format&fit=crop"
+    ],
+    "whatsappMessageTemplate": "Hi, I would like to enquire about Wedding Decoration services."
+  },
+  {
+    "id": "2",
+    "title": "Birthday Parties",
+    "slug": "birthday-decoration",
+    "coverImage": "https://images.unsplash.com/photo-1530103862676-de3c9a59af38?q=80&w=800&auto=format&fit=crop",
+    "shortDescription": "Fun and vibrant themes for birthdays of all ages.",
+    "fullDescription": "Make your birthday celebration unforgettable with our themed decorations. Whether it's a first birthday, a sweet sixteen, or a milestone celebration, we provide balloon arches, backdrops, table settings, and props that bring the party to life.",
+    "sampleImages": [
+      "https://images.unsplash.com/photo-1530103862676-de3c9a59af38?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1558636508-e0db3814bd1d?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1602631985686-1bb0e6a8696e?q=80&w=800&auto=format&fit=crop"
+    ],
+    "whatsappMessageTemplate": "Hi, I am planning a Birthday Party and need decoration details."
+  },
+  {
+    "id": "3",
+    "title": "Reception Decor",
+    "slug": "reception-decoration",
+    "coverImage": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop",
+    "shortDescription": "Grand and sophisticated reception stages and ambience.",
+    "fullDescription": "Our Reception Decor service focuses on grandeur and sophistication. We specialize in crystal chandeliers, LED screens, floral installations, and elegant seating arrangements to ensure your reception looks stunning in photos and in person.",
+    "sampleImages": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1478146059778-26028b07395a?q=80&w=800&auto=format&fit=crop"
+    ],
+    "whatsappMessageTemplate": "Hi, I'm interested in Reception Decoration pricing and availability."
+  },
+  {
+    "id": "4",
+    "title": "Corporate Events",
+    "slug": "corporate-events",
+    "coverImage": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800&auto=format&fit=crop",
+    "shortDescription": "Professional and branded setups for company events.",
+    "fullDescription": "We deliver professional decoration solutions for corporate events, conferences, and product launches. Our designs are sleek, modern, and aligned with your brand identity, ensuring a professional atmosphere for your guests.",
+    "sampleImages": [
+      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560523159-4a9692d222f9?q=80&w=800&auto=format&fit=crop"
+    ],
+    "whatsappMessageTemplate": "Hello, we have a Corporate Event coming up and need decoration services."
+  }
+]
