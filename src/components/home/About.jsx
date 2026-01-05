@@ -6,7 +6,8 @@ export default function About() {
                 <div className="h-1 w-20 bg-primary mx-auto mb-8 rounded-full" />
 
                 <p className="text-lg text-gray-600 leading-relaxed mb-8">
-                    At LuxeDecor, we believe every event tells a story. We specialize in transforming venues into breathtaking experiences using floral artistry, elegant drapes, and ambient lighting. Whether it's an intimate birthday or a grand wedding, we bring your vision to life with precision and passion.
+                    At                         GPT Event Management
+                    , we believe every event tells a story. We specialize in transforming venues into breathtaking experiences using floral artistry, elegant drapes, and ambient lighting. Whether it's an intimate birthday or a grand wedding, we bring your vision to life with precision and passion.
                 </p>
 
                 <div className="grid grid-cols-3 gap-4 md:gap-8 mt-12 text-center">

@@ -27,7 +27,7 @@ export default function Navbar() {
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
                     <Link to="/" className="text-2xl font-bold text-primary font-display" onClick={handleLinkClick}>
-                        PandiDecor
+                        GPT Event Management
                     </Link>
 
                     {/* Desktop Navigation */}
@@ -100,4 +100,3 @@ export default function Navbar() {
         </nav>
     );
 }
-    
